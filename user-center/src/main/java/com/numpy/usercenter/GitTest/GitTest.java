@@ -6,6 +6,6 @@ import lombok.extern.slf4j.Slf4j;
 public class GitTest {
     public static void main(String[] args) {
         log.info("hello,Git");
-        System.out.println("你好哇，这是GitTest的第二个版本！");
+        log.info("这是Git测试的第三个版本");
     }
 }
